@@ -1,0 +1,10 @@
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\bin\Debug\图形验证码.exe.config
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\bin\Debug\图形验证码.exe
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\bin\Debug\图形验证码.pdb
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.csprojAssemblyReference.cache
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.Form1.resources
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.Properties.Resources.resources
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.csproj.GenerateResource.cache
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.csproj.CoreCompileInputs.cache
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.exe
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\图形验证码\obj\Debug\图形验证码.pdb
