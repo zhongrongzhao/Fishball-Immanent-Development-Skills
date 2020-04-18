@@ -1,0 +1,10 @@
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\bin\Debug\鱼蛋文件分割器.exe.config
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\bin\Debug\鱼蛋文件分割器.exe
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\bin\Debug\鱼蛋文件分割器.pdb
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割器.Form1.resources
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割器.Properties.Resources.resources
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割合并工具.csproj.GenerateResource.cache
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割合并工具.csproj.CoreCompileInputs.cache
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割器.exe
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割器.pdb
+E:\CODE\鱼蛋闷骚的开发技巧\图形验证码\鱼蛋文件分割器\obj\Debug\鱼蛋文件分割合并工具.csprojAssemblyReference.cache
